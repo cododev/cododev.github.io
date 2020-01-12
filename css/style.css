@@ -1,0 +1,47 @@
+body {
+    background-image: url(../images/birds.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: rgba(rgba(45, 131, 189, 0.658), green, blue, alpha);
+    text-align: center;
+    cursor: pointer;
+    border: 5px solid rgba(0, 8, 7, 0.404)
+}
+
+h2 {
+    text-align: center;
+}
+
+.newpage {
+    border: 5px solid red;
+    display: inline-block;
+    padding: 5px 20px ;
+    margin: 0px 20px ;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+p {
+    color:white;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    float: center;
+}
+
+
+
+.footer {
+    text-align: center;
+    clear: both;
+}
+
